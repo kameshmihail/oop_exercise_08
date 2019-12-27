@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AppWndTitleBar.qml</file>
+        <file>AboutWnd.qml</file>
+        <file>AboutWndTitleBar.qml</file>
+        <file>Scene.qml</file>
+        <file>GeneralButtons.qml</file>
+        <file>GeneralButton.qml</file>
+        <file>Figure.qml</file>
+        <file>Alertify.qml</file>
+        <file>CustomFileDialog.qml</file>
+        <file>BBoxActionPoint.qml</file>
+        <file>CustomColorPicker.qml</file>
+    </qresource>
+</RCC>
